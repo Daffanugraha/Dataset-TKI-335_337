@@ -14,7 +14,7 @@
 
 ## Sumber Data
 
-Data berasal dari putusan [Pengadilan Negeri Banjarmasin](https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=&tp=&court=099197PN53++++++++++++++++++++++&t_put=2024&t_reg=&t_upl=&t_pr=) dan diambil dari direktori PIDANA KHUSUS dengan klasifikasi NARKOTIKA DAN PSIKOTROPIKA pada periode tahun 2023-2024.
+Data berasal dari putusan [Pengadilan Negeri Sidoarjo](https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=&tp=&court=099197PN53++++++++++++++++++++++&t_put=2024&t_reg=&t_upl=&t_pr=) dan diambil dari direktori PIDANA KHUSUS dengan klasifikasi NARKOTIKA DAN PSIKOTROPIKA pada periode tahun 2023-2024.
 
 ## Tujuan
 
