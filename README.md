@@ -10,7 +10,7 @@
 2. *[Overview](https://github.com/Daffanugraha/Dataset-TKI-335_337/tree/main/Overview)*
    - *[Overview.xlsx](https://github.com/Daffanugraha/Dataset-TKI-335_337/blob/main/Overview/Overview.xlsx)*: File ringkasan dari 50 data putusan pengadilan.
      - Berisi ringkasan untuk memudahkan pemahaman umum mengenai isi dari dataset. File ini memuat informasi kunci dari masing-masing putusan, seperti nomor putusan, lembaga peradilan, barang bukti, dan amar putusan.
-     - Dokumen berasal dari [direktori](https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=&tp=&court=099197PN53++++++++++++++++++++++&t_put=2024&t_reg=&t_upl=&t_pr=) PIDANA KHUSUS dengan klasifikasi NARKOTIKA DAN PSIKOTROPIKA di Pengadilan Negeri Banjarmasin untuk periode tahun 2023-2024.
+     - Dokumen berasal dari [direktori](https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=&tp=&court=099197PN53++++++++++++++++++++++&t_put=2024&t_reg=&t_upl=&t_pr=) PIDANA KHUSUS dengan klasifikasi NARKOTIKA DAN PSIKOTROPIKA di Pengadilan Negeri Sidoarjo untuk periode tahun 2023-2024.
 
 ## Sumber Data
 
